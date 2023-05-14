@@ -46,4 +46,10 @@ https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/high-availabi
 # Query Performance Insights for Azure SQLDB
 https://learn.microsoft.com/en-us/azure/azure-sql/database/query-performance-insight-use?view=azuresql
 
+# Security
+## Azure SQLDB
+
+***Src***: Microsoft Virtual Event: **Securely Migrate and Optimize with Azure** (Section: Modernize apps on intelligent, secure, and fully-managed Azure databases)
+![Screenshot 2023-05-14 104528](https://github.com/gsriramit/SQL-HADR/assets/13979783/998076a9-36d9-4fc6-92e2-f732d4fc4871)
+
 
