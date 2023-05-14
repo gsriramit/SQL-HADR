@@ -1,3 +1,7 @@
+# VCore Model - Choosing Service Tiers 
+https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tiers-sql-database-vcore?view=azuresql
+
+
 # SQL-HADR (WIP)
 High Availability and Disaster Recovery mechanisms in the design of Azure SQLDB, SQL MI and SQL Server on Azure VMs
 
@@ -22,4 +26,24 @@ https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/micr
 https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.sqlvirtualmachine/sql-vm-aglistener-setup
 3. Setting up Domain Controller in HA mode
 https://github.com/Azure/azure-quickstart-templates/tree/master/application-workloads/active-directory/active-directory-new-domain-ha-2-dc
+
+### Azure SQL DB
+**High Availability for Azure SQLDB**
+https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla?view=azuresql&tabs=azure-powershell  
+**Active Geo-Replication**
+https://learn.microsoft.com/en-us/azure/azure-sql/database/active-geo-replication-overview?view=azuresql  
+**Azure SQL HA by Service Tier**
+https://www.youtube.com/watch?v=2WbRgjrpXkU
+
+### Azure SQL Managed Instance
+**High Availability of Azure SQL MI General Purpose Service Tier**
+https://techcommunity.microsoft.com/t5/azure-sql-blog/high-availability-in-azure-sql-mi-general-purpose-service-tier/ba-p/3298977
+**High Availability and SLA for SQL MI**
+https://www.youtube.com/watch?v=gC9KSnNtSnM
+**Official documentation on SQL MI HA**
+https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/high-availability-sla?view=azuresql
+
+# Query Performance Insights for Azure SQLDB
+https://learn.microsoft.com/en-us/azure/azure-sql/database/query-performance-insight-use?view=azuresql
+
 
