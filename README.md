@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=gC9KSnNtSnM
 **Official documentation on SQL MI HA**
 https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/high-availability-sla?view=azuresql
 
+### Azure SQL Managed Instance on Azure Arc-Enabled Kubernetes
+https://learn.microsoft.com/en-us/azure/azure-arc/data/managed-instance-high-availability
+
 # Query Performance Insights for Azure SQLDB
 https://learn.microsoft.com/en-us/azure/azure-sql/database/query-performance-insight-use?view=azuresql
 
